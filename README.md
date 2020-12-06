@@ -174,7 +174,7 @@ Project Link: [https://github.com/Diae-Louali/AmazonClone](https://github.com/Di
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [Stripe](https://stripe.com/) account
+* [Stripe](https://stripe.com/)
 * [Tailwind](https://tailwindcss.com/)
 * [Material-ui](https://material-ui.com/)
 * [Slick Carousel](https://kenwheeler.github.io/slick/)
