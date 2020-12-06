@@ -39,7 +39,7 @@ To see the demo, visit this link : https://youtu.be/xy7Y642nfAs
 
 As a third project, I made a clone of amazon that includes stripe payments as well as a star review system among other features. 
 
-This project has been done in pair programming with [Diae Louali](https://github.com/Diae-Louali).
+This project has been done in pair programming with [Adam Louali](https://github.com/AdamOB1290).
 
 ### Built With
 
@@ -71,7 +71,7 @@ NOTICE :
 * Clone the repo and cd into the project's folder
 
    ```sh
-   git clone https://github.com/AdamOB1290/amazon-clone.git
+   git clone https://github.com/Diae-Louali/AmazonClone.git
    ```
    ```sh
    cd amazon-clone
@@ -161,9 +161,9 @@ NOTICE :
 <!-- CONTACT -->
 ## Contact
 
-Adam LOUALI - [LinkedIn](https://www.linkedin.com/in/adam-louali/) - loualiadam0@gmail.com
+Diae Louali - [LinkedIn](https://www.linkedin.com/in/diae-louali-895b2b127/) - Loualidiae@outlook.fr
 
-Project Link: [https://github.com/AdamOB1290/amazon-clone](https://github.com/AdamOB1290/amazon-clone)
+Project Link: [https://github.com/Diae-Louali/AmazonClone](https://github.com/Diae-Louali/AmazonClone)
 
 
 
