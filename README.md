@@ -45,6 +45,11 @@ This project has been done in pair programming with [Adam Louali](https://github
 
 * [React js](https://reactjs.org/)
 * [Node js](https://nodejs.org/)
+* [Firebase](https://firebase.com/)
+* [Stripe](https://stripe.com/)
+* [Tailwind css](https://tailwindcss.com/)
+* [Unsplash Api](https://unsplash.com/developers/)
+* [Material-ui](https://material-ui.com/)
 
 
 <!-- GETTING STARTED -->
